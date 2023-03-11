@@ -23,7 +23,8 @@
   },
   "peerDependencies": {
     "react": "^16.9.0 || ^17 || ^18",
-    "react-dom": "^16.9.0 || ^17 || ^18"
+    "react-dom": "^16.9.0 || ^17 || ^18",
+    "package-b": "^2.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
