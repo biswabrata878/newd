@@ -21,6 +21,10 @@
     "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
+  "peerDependencies": {
+    "react": "^16.9.0 || ^17 || ^18",
+    "react-dom": "^16.9.0 || ^17 || ^18"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
